@@ -6,4 +6,4 @@ This repository highlights my cybersecurity home lab projects—a series of prac
 
 ## Table of Contents
 
-### Ubuntu Exploratory Home Lab| 
+### [Ubuntu Exploratory Home Lab](Y:\College Workstation\NEWPALTZ\Sem 3\Network Security\Github\Cybersecurity-Home-Lab\Assignment 4.pdf)
