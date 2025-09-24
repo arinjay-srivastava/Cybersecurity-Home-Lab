@@ -6,5 +6,5 @@ This repository highlights my cybersecurity home lab projects—a series of prac
 
 ## Table of Contents
 
-### Ubuntu Exploratory Home Lab| [[Docs/Assignment 4.pdf]]
+### 1. Ubuntu Exploratory Home Lab| [[Docs/Assignment 4.pdf]]
 
