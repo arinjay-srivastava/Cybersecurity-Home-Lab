@@ -7,3 +7,4 @@ This repository highlights my cybersecurity home lab projects—a series of prac
 ## Table of Contents
 
 ### 1. [Ubuntu Exploratory Home Lab](https://github.com/arinjay-srivastava/Cybersecurity-Home-Lab/blob/2ffbec4232c875e4f032d715cd5c1e2ad2c5779f/Docs/Assignment%204/Ubuntu%20Exploratory%20Home%20Lab.md)
+### 2. [UFW Exploration]()
