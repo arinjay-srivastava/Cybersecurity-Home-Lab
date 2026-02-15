@@ -10,3 +10,4 @@ This repository highlights my cybersecurity home lab projects, a series of pract
 ### 2. [UFW Exploration](https://github.com/arinjay-srivastava/Cybersecurity-Home-Lab/blob/main/Docs/Assignment%205/UFW.md)
 ### 3. [Network Security with Snort](https://github.com/arinjay-srivastava/Cybersecurity-Home-Lab/blob/main/Docs/Assignment%206/Network%20Security%20with%20Snort.md)
 ### 4. [Building a Lightweight SIEMIDPS](https://github.com/arinjay-srivastava/Cybersecurity-Home-Lab/blob/main/Docs/A%209/Building%20a%20Lightweight%20SIEMIDPS.md)
+### 5.
