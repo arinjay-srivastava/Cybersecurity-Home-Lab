@@ -1,3 +1,4 @@
+# Linux Security Basics Lab
 
 A hands-on lab exploring Linux system administration, user management, and security fundamentals using a Virtual Machine.
 
