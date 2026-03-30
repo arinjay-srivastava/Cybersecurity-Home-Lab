@@ -11,3 +11,4 @@ This repository highlights my cybersecurity home lab projects, a series of pract
 ### 3. [Network Security with Snort](https://github.com/arinjay-srivastava/Cybersecurity-Home-Lab/blob/main/Docs/Assignment%206/Network%20Security%20with%20Snort.md)
 ### 4. [Building a Lightweight SIEMIDPS](https://github.com/arinjay-srivastava/Cybersecurity-Home-Lab/blob/main/Docs/A%209/Building%20a%20Lightweight%20SIEMIDPS.md)
 ### 5. [Linux Security Basics](https://github.com/arinjay-srivastava/Cybersecurity-Home-Lab/blob/main/Docs/CS%202/Linux%20Security%20Basics%20Lab.md)
+### 6. [Environment Variable and Set-UID Program Lab Report](https://github.com/arinjay-srivastava/Cybersecurity-Home-Lab/blob/main/Docs/CS%203/Environment%20Variable%20and%20Set-UID%20Program%20Lab%20Report.md)
